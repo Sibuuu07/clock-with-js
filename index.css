@@ -1,4 +1,6 @@
-
+body{
+  background-color: blueviolet;
+}
 #clockContainer{
   position: relative;
   margin: auto;
